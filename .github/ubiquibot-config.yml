@@ -15,5 +15,5 @@ time-labels:
     weight: 0.063
     value: 1800
 enable-access-control:
-  label: true
-  organization: true
+  label: false
+  organization: false
