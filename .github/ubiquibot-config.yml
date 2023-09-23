@@ -1,4 +1,4 @@
-time-labels:
+timeLabels:
   - name: "Time: <1 Minute"
     weight: 0.0021
     value: 60
@@ -14,6 +14,6 @@ time-labels:
   - name: "Time: <30 Minutes"
     weight: 0.063
     value: 1800
-enable-access-control:
+enableAccessControl:
   label: false
   organization: false
